@@ -1,0 +1,2 @@
+Application is UP
+Response: 200 Ok
